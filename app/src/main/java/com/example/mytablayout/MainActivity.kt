@@ -16,7 +16,8 @@ class MainActivity : AppCompatActivity() {
         @StringRes
         private val TAB_TITLES = intArrayOf(
             R.string.tab_text1,
-            R.string.tab_text2
+            R.string.tab_text2,
+            R.string.tab_text3
         )
     }
     override fun onCreate(savedInstanceState: Bundle?) {
